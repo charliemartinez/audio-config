@@ -1,7 +1,7 @@
 # audio-config
 Autor: Charlie Martínez ®
 ## Acerca de este repositorio
-Este programa sirve para habilitar o deshabilitar el audio integrado de Intel en portátiles o PC de Escritorio. Útil para cuando tenemos una placa especializada y queremos predeterminada evitando conflictos. Proporciona una intefáz gráfica sencilla (GUI) generada mediante Zenity. 
+Este programa sirve para habilitar o deshabilitar el audio integrado de Intel en portátiles o PC de Escritorio. Útil para cuando tenemos una placa especializada y queremos predeterminarla para evitar conflictos. Proporciona una intefáz gráfica sencilla (GUI) generada mediante Zenity. 
 ### Dependencias
 zenity
 ### Compatibilidad
